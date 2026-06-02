@@ -1,8 +1,10 @@
-# My First Repostory
+## what i learnt today
 
-A beginner GitHb project 
-created during the workshop.
+I am currently atteiding a GitHub workshop.
+Today I learnt about :
+- Version control
+- creatig  repostory
+- The edit-commit
+- puah cycle
 
-## About Me
-My name is **Aishka**
-I am learning GitHub.
+My GitHub repostoey profie : https://github.com/rmavishka0
