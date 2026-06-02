@@ -1,4 +1,4 @@
-## what i learnt today
+## What I learnt today
 
 I am currently atteiding a GitHub workshop.
 Today I learnt about :
